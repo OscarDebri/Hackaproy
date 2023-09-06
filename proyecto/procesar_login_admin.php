@@ -5,7 +5,7 @@ session_start();
 // Tus datos de conexión a la base de datos
 $servername = "localhost";
 $username = "root";
-$password = "";
+$password = "Mu14n1509";
 $database = "citas";
 
 // Conecta a la base de datos
